@@ -1,0 +1,14 @@
+layout_spectrum: 0.3200043
+typography_spectrum: 0.1899642
+color:
+  saturation: 0.2014235
+  lightness: 0.9695187
+  brandStrength: 0.2924604
+  brandColors:
+    - '#AFC2C8'
+    - '#6D7162'
+    - '#B89087'
+    - '#FF4D49'
+    - '#B72F2D'
+  rhythmicContrast: 0.2324221
+name: be team
