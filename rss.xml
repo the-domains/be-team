@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[be team]]></title>
+        <description><![CDATA[be team]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 20 Jun 2016 23:35:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wait, wait...]]></title>
+            <description><![CDATA[<article><h1>Wait, wait...</h1><p>I work here.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ff6b6f9ebda348ac373c216626543cda/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcd937c5f-2690-4a40-8ca2-c7aeb96e68db.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd937c5f-2690-4a40-8ca2-c7aeb96e68db.jpg</link>
+            <guid isPermaLink="false">acbd4011-cf0c-48ba-b153-dd96a3623312</guid>
+            <pubDate>Mon, 20 Jun 2016 23:35:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
