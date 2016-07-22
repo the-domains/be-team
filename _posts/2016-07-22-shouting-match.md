@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-07-22T01:56:55.084Z'
+datePublished: '2016-07-22T02:09:47.912Z'
 author: []
 via: {}
-dateModified: '2016-07-22T01:56:07.769Z'
+dateModified: '2016-07-22T02:09:47.254Z'
 title: Shouting Match
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-07-22-shouting-match.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: shouting-match/index.html
 _context: 'http://schema.org'
 _type: Article
