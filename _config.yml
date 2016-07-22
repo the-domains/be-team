@@ -12,3 +12,8 @@ color:
     - '#B72F2D'
   rhythmicContrast: 0.2324221
 name: be team
+navigation:
+  - id: e093ae50-3fb1-4232-b7e9-a8f82da34fd0
+    url: 2016-07-22-e093ae50-3fb1-4232-b7e9-a8f82da34fd0.html
+    name: About Us
+    type: content
