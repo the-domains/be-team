@@ -12,8 +12,4 @@ color:
     - '#B72F2D'
   rhythmicContrast: 0.2324221
 name: be team
-navigation:
-  - id: e480a9a6-76e6-4310-bc29-8740df0fee95
-    url: 2016-07-22-shouting-match.html
-    name: Feed
-    type: content
+navigation: []
