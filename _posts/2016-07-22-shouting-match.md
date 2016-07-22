@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-22T02:09:47.912Z'
+datePublished: '2016-07-22T02:19:30.069Z'
+sourcePath: _posts/2016-07-22-shouting-match.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-22T02:09:47.254Z'
+dateModified: '2016-07-22T02:19:29.762Z'
 title: Shouting Match
 publisher: {}
 description: ''
-sourcePath: _posts/2016-07-22-shouting-match.md
-hasPage: true
 starred: false
 url: shouting-match/index.html
 _context: 'http://schema.org'
