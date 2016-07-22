@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-22T02:19:30.069Z'
+datePublished: '2016-07-22T02:20:30.100Z'
 sourcePath: _posts/2016-07-22-shouting-match.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-22T02:19:29.762Z'
+dateModified: '2016-07-22T02:20:29.770Z'
 title: Shouting Match
 publisher: {}
 description: ''
