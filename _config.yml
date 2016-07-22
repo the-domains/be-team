@@ -17,3 +17,7 @@ navigation:
     url: 2016-07-22-e093ae50-3fb1-4232-b7e9-a8f82da34fd0.html
     name: About Us
     type: content
+  - id: e480a9a6-76e6-4310-bc29-8740df0fee95
+    url: 2016-07-22-shouting-match.html
+    name: Feed
+    type: content
